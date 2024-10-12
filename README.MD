@@ -2,7 +2,7 @@
 
 You can download the pre-trained facial landmark model (`shape_predictor_68_face_landmarks.dat`) for dlib from the following GitHub repository:
 
-[Download shape_predictor_68_face_landmarks.dat](https://github.com/davisking/dlib-models/raw/master/shape_predictor_68_face_landmarks.dat)
+[Download shape_predictor_68_face_landmarks.dat](https://github.com/italojs/facial-landmarks-recognition/tree/master)
 
 Extract ZIP folder then copy the `shape_predictor_68_face_landmarks.dat` file into this folder.
 
