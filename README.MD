@@ -17,15 +17,15 @@ This project demonstrates the use of facial landmark recognition to detect fatig
 
 **For Windows / macOS:**
 
-````bash
+```bash
 python -m venv env
-
+```
 
 Windows / Mac
 
 ```bash
     python -m venv env
-````
+```
 
 Linux
 
